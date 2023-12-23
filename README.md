@@ -178,11 +178,19 @@ https://github.com/Hemanthroyalll/scania_assignment1/assets/105798597/479969cb-a
 
 <p>Issue faced while executing playwright script in chromium:</p>
 
-https://github.com/Hemanthroyalll/scania_assignment2/assets/105798597/f34adf0d-68c5-4d3b-83ec-b17ed026870b
+
+
+https://github.com/Hemanthroyalll/scania_assignment1/assets/105798597/9278b241-e305-4a9a-874c-80d7d780bf06
+
+
 
 <p>Issue faced while executing playwright script in webkit:</p>
 
-https://github.com/Hemanthroyalll/scania_assignment2/assets/105798597/d8f515b9-2c64-44a7-910d-5ff706ee665a
+
+
+https://github.com/Hemanthroyalll/scania_assignment1/assets/105798597/bdec562c-55cf-4bbb-8e99-eff4b58e7ade
+
+
 
 <h1>Conclusion</h1>
 
