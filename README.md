@@ -190,6 +190,7 @@ https://github.com/Hemanthroyalll/scania_assignment1/assets/105798597/9278b241-e
 
 https://github.com/Hemanthroyalll/scania_assignment1/assets/105798597/bdec562c-55cf-4bbb-8e99-eff4b58e7ade
 
+<img width="709" alt="Screenshot 2023-12-20 at 11 53 46 AM" src="https://github.com/Hemanthroyalll/scania_assignment1/assets/105798597/1fcd0a87-c7ad-46c6-a5c1-012927f1ddd3">
 
 
 <h1>Conclusion</h1>
